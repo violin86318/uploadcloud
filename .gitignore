@@ -1,0 +1,18 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Sensitive files & configs
+config.json
+*.log
+*.p12
+*.cer
+*.mobileprovision
+
+# Temp files
+*.tmp
+/tmp/
